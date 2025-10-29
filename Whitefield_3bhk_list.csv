@@ -1,0 +1,176 @@
+serial_no,area_type,availability,location,size,total_sqft,bath,balcony,price,bedrooms,total_sqft_clean,price_rupees,price_per_sqft
+11,Super built-up  Area,18-Feb,Whitefield,3 BHK,1800,2.0,2.0,70.0,3.0,1800.0,7000000.0,3888.89
+28,Built-up  Area,20-Dec,Whitefield,3 BHK,1610,3.0,2.0,81.0,3.0,1610.0,8100000.0,5031.06
+53,Built-up  Area,Ready To Move,Whitefield,3 BHK,2010,3.0,2.0,91.0,3.0,2010.0,9100000.0,4527.36
+399,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1910,3.0,2.0,161.0,3.0,1910.0,16100000.0,8429.32
+539,Built-up  Area,20-Dec,Whitefield,3 BHK,1768,3.0,2.0,101.0,3.0,1768.0,10100000.0,5712.67
+542,Plot  Area,18-Mar,Whitefield,3 Bedroom,1500,3.0,1.0,61.95,3.0,1500.0,6195000.0,4130.0
+581,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2500,3.0,2.0,313.0,3.0,2500.0,31300000.0,12520.0
+617,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1790,3.0,2.0,100.0,3.0,1790.0,10000000.0,5586.59
+623,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1720,3.0,3.0,100.0,3.0,1720.0,10000000.0,5813.95
+712,Super built-up  Area,18-Sep,Whitefield,3 BHK,1640,4.0,2.0,91.0,3.0,1640.0,9100000.0,5548.78
+748,Super built-up  Area,18-Dec,Whitefield,3 BHK,2280,4.0,2.0,126.0,3.0,2280.0,12600000.0,5526.32
+774,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1650,3.0,2.0,60.0,3.0,1650.0,6000000.0,3636.36
+897,Built-up  Area,18-Feb,Whitefield,3 BHK,1897,3.0,2.0,130.0,3.0,1897.0,13000000.0,6852.93
+910,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2225,2.0,1.0,125.0,3.0,2225.0,12500000.0,5617.98
+1042,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1560,2.0,2.0,72.0,3.0,1560.0,7200000.0,4615.38
+1138,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1985,3.0,2.0,75.0,3.0,1985.0,7500000.0,3778.34
+1209,Super built-up  Area,18-Dec,Whitefield,3 BHK,1697,3.0,2.0,94.79,3.0,1697.0,9479000.0,5585.74
+1255,Built-up  Area,Ready To Move,Whitefield,3 BHK,1700,3.0,2.0,115.0,3.0,1700.0,11500000.0,6764.71
+1275,Built-up  Area,18-Jan,Whitefield,3 Bedroom,2842,3.0,2.0,162.0,3.0,2842.0,16200000.0,5700.21
+1278,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1403,2.0,2.0,60.81,3.0,1403.0,6081000.0,4334.28
+1327,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1485,3.0,2.0,65.0,3.0,1485.0,6500000.0,4377.1
+1328,Plot  Area,18-May,Whitefield,3 Bedroom,1500,3.0,1.0,130.0,3.0,1500.0,13000000.0,8666.67
+1458,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1405,2.0,1.0,78.0,3.0,1405.0,7800000.0,5551.6
+1499,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2225,3.0,3.0,115.0,3.0,2225.0,11500000.0,5168.54
+1510,Built-up  Area,Ready To Move,Whitefield,3 BHK,1541,3.0,1.0,72.0,3.0,1541.0,7200000.0,4672.29
+1667,Super built-up  Area,20-Dec,Whitefield,3 BHK,1306,3.0,2.0,54.65,3.0,1306.0,5465000.0,4184.53
+1668,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1626,3.0,3.0,89.0,3.0,1626.0,8900000.0,5473.55
+1670,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1585,3.0,2.0,88.0,3.0,1585.0,8800000.0,5552.05
+1734,Plot  Area,18-Dec,Whitefield,3 Bedroom,1200,3.0,2.0,68.5,3.0,1200.0,6850000.0,5708.33
+1784,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1697,3.0,2.0,108.0,3.0,1697.0,10800000.0,6364.17
+2380,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2010,3.0,3.0,92.0,3.0,2010.0,9200000.0,4577.11
+2420,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1635,2.0,2.0,85.0,3.0,1635.0,8500000.0,5198.78
+2447,Plot  Area,18-Aug,Whitefield,3 Bedroom,1200,3.0,2.0,56.2,3.0,1200.0,5620000.0,4683.33
+2536,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1870,3.0,2.0,90.0,3.0,1870.0,9000000.0,4812.83
+2782,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1800,3.0,2.0,110.0,3.0,1800.0,11000000.0,6111.11
+2793,Super built-up  Area,20-Dec,Whitefield,3 BHK,1562,3.0,2.0,103.0,3.0,1562.0,10300000.0,6594.11
+2839,Super built-up  Area,18-Dec,Whitefield,3 BHK,2321,4.0,1.0,128.0,3.0,2321.0,12800000.0,5514.86
+2966,Built-up  Area,Ready To Move,Whitefield,3 BHK,1896,3.0,1.0,75.0,3.0,1896.0,7500000.0,3955.7
+2984,Plot  Area,Ready To Move,Whitefield,3 Bedroom,3010,3.0,2.0,200.0,3.0,3010.0,20000000.0,6644.52
+2995,Super built-up  Area,18-Feb,Whitefield,3 BHK,3850,5.0,2.0,316.0,3.0,3850.0,31600000.0,8207.79
+3017,Built-up  Area,14-Nov,Whitefield,3 BHK,1410,3.0,2.0,43.71,3.0,1410.0,4371000.0,3100.0
+3022,Built-up  Area,Ready To Move,Whitefield,3 BHK,1150,2.0,3.0,44.0,3.0,1150.0,4400000.0,3826.09
+3336,Plot  Area,18-Dec,Whitefield,3 Bedroom,1500,3.0,1.0,71.8,3.0,1500.0,7180000.0,4786.67
+3374,Super built-up  Area,18-Dec,Whitefield,3 BHK,1697,3.0,2.0,115.0,3.0,1697.0,11500000.0,6776.66
+3461,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1520,2.0,2.0,150.0,3.0,1520.0,15000000.0,9868.42
+3551,Built-up  Area,Ready To Move,Whitefield,3 BHK,1350,3.0,2.0,54.0,3.0,1350.0,5400000.0,4000.0
+3712,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1545,3.0,2.0,79.0,3.0,1545.0,7900000.0,5113.27
+3798,Super built-up  Area,20-Jun,Whitefield,3 BHK,1306,3.0,2.0,54.65,3.0,1306.0,5465000.0,4184.53
+3850,Super built-up  Area,20-Jun,Whitefield,3 BHK,1386,3.0,1.0,57.46,3.0,1386.0,5746000.0,4145.74
+4069,Super built-up  Area,18-Feb,Whitefield,3 BHK,3480,4.0,2.0,284.0,3.0,3480.0,28400000.0,8160.92
+4083,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1738,2.0,3.0,79.0,3.0,1738.0,7900000.0,4545.45
+4260,Plot  Area,18-Jul,Whitefield,3 Bedroom,1200,3.0,1.0,61.96,3.0,1200.0,6196000.0,5163.33
+4335,Super built-up  Area,18-Dec,Whitefield,3 BHK,1650 - 2538,2.0,2.0,113.19,3.0,2094.0,11319000.0,5405.44
+4352,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1700,3.0,1.0,140.0,3.0,1700.0,14000000.0,8235.29
+4394,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1345,2.0,2.0,57.0,3.0,1345.0,5700000.0,4237.92
+4511,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1440,2.0,2.0,64.0,3.0,1440.0,6400000.0,4444.44
+4608,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1700,3.0,2.0,95.0,3.0,1700.0,9500000.0,5588.24
+4670,Super built-up  Area,20-Sep,Whitefield,3 BHK,2700,5.0,2.0,175.0,3.0,2700.0,17500000.0,6481.48
+4802,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1840,3.0,2.0,140.0,3.0,1840.0,14000000.0,7608.7
+4845,Super built-up  Area,20-Nov,Whitefield,3 BHK,1778,3.0,2.0,122.0,3.0,1778.0,12200000.0,6861.64
+5388,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1745,3.0,3.0,100.0,3.0,1745.0,10000000.0,5730.66
+5617,Super built-up  Area,19-Jun,Whitefield,3 BHK,1870,3.0,2.0,138.0,3.0,1870.0,13800000.0,7379.68
+5701,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1862,3.0,2.0,125.0,3.0,1862.0,12500000.0,6713.21
+5754,Super built-up  Area,18-Dec,Whitefield,3 BHK,1655,3.0,1.0,113.0,3.0,1655.0,11300000.0,6827.79
+5806,Super built-up  Area,18-Dec,Whitefield,3 BHK,1600,3.0,2.0,82.0,3.0,1600.0,8200000.0,5125.0
+5885,Plot  Area,18-Oct,Whitefield,3 Bedroom,1200,3.0,2.0,57.15,3.0,1200.0,5715000.0,4762.5
+5913,Super built-up  Area,18-May,Whitefield,3 BHK,1451,2.0,2.0,52.43,3.0,1451.0,5243000.0,3613.37
+5956,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2500,3.0,2.0,280.0,3.0,2500.0,28000000.0,11200.0
+6023,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1330,2.0,2.0,55.0,3.0,1330.0,5500000.0,4135.34
+6248,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1495,2.0,2.0,67.0,3.0,1495.0,6700000.0,4481.61
+6252,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1548,3.0,1.0,65.0,3.0,1548.0,6500000.0,4198.97
+6291,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1405,3.0,2.0,58.0,3.0,1405.0,5800000.0,4128.11
+6400,Plot  Area,Immediate Possession,Whitefield,NULL,2324,2.0,2.0,26.73,3.0,2324.0,2673000.0,1150.17
+6420,Plot  Area,18-Dec,Whitefield,3 Bedroom,1200,3.0,1.0,68.4,3.0,1200.0,6840000.0,5700.0
+6543,Built-up  Area,Ready To Move,Whitefield,3 Bedroom,3000,3.0,2.0,400.0,3.0,3000.0,40000000.0,13333.33
+6614,Plot  Area,18-Jul,Whitefield,3 Bedroom,1200,3.0,1.0,56.0,3.0,1200.0,5600000.0,4666.67
+6644,Built-up  Area,Ready To Move,Whitefield,3 BHK,1550,2.0,2.0,49.6,3.0,1550.0,4960000.0,3200.0
+6653,Super built-up  Area,19-Dec,Whitefield,3 BHK,2173,3.0,2.0,128.0,3.0,2173.0,12800000.0,5890.47
+6663,Built-up  Area,Ready To Move,Whitefield,3 BHK,1435,3.0,2.0,45.0,3.0,1435.0,4500000.0,3135.89
+6728,Super built-up  Area,19-Jun,Whitefield,3 BHK,1870,3.0,2.0,138.0,3.0,1870.0,13800000.0,7379.68
+6747,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2901,4.0,2.0,190.0,3.0,2901.0,19000000.0,6549.47
+6799,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1755,3.0,3.0,101.0,3.0,1755.0,10100000.0,5754.99
+6829,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1608,2.0,3.0,63.0,3.0,1608.0,6300000.0,3917.91
+6873,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2225,3.0,1.0,149.0,3.0,2225.0,14900000.0,6696.63
+6946,Super built-up  Area,18-Dec,Whitefield,3 BHK,1390 - 1600,2.0,2.0,61.28,3.0,1495.0,6128000.0,4099.0
+7092,Plot  Area,18-Nov,Whitefield,3 Bedroom,1200,3.0,2.0,56.58,3.0,1200.0,5658000.0,4715.0
+7114,Built-up  Area,18-Apr,Whitefield,3 BHK,2210,3.0,2.0,156.0,3.0,2210.0,15600000.0,7058.82
+7127,Super built-up  Area,18-Feb,Whitefield,3 BHK,1740,4.0,3.0,130.0,3.0,1740.0,13000000.0,7471.26
+7257,Super built-up  Area,18-Mar,Whitefield,3 BHK,1655,3.0,3.0,120.0,3.0,1655.0,12000000.0,7250.76
+7391,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2023,4.0,2.0,130.0,3.0,2023.0,13000000.0,6426.1
+7466,Super built-up  Area,18-Dec,Whitefield,3 BHK,2134,4.0,2.0,118.0,3.0,2134.0,11800000.0,5529.52
+7528,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1458,2.0,2.0,62.0,3.0,1458.0,6200000.0,4252.4
+7531,Plot  Area,Ready To Move,Whitefield,3 Bedroom,1808,4.0,0.0,80.0,3.0,1808.0,8000000.0,4424.78
+7564,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1537,2.0,3.0,70.0,3.0,1537.0,7000000.0,4554.33
+7654,Built-up  Area,Ready To Move,Whitefield,3 BHK,1806,3.0,3.0,85.0,3.0,1806.0,8500000.0,4706.53
+7688,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1452,3.0,2.0,90.0,3.0,1452.0,9000000.0,6198.35
+7758,Built-up  Area,18-Dec,Whitefield,3 BHK,1600,3.0,2.0,69.0,3.0,1600.0,6900000.0,4312.5
+7824,Built-up  Area,18-Dec,Whitefield,3 BHK,1991,3.0,2.0,104.0,3.0,1991.0,10400000.0,5223.51
+7871,Built-up  Area,18-Jun,Whitefield,3 BHK,1655,3.0,2.0,97.0,3.0,1655.0,9700000.0,5861.03
+7904,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1850,3.0,2.0,150.0,3.0,1850.0,15000000.0,8108.11
+7911,Plot  Area,18-Sep,Whitefield,3 Bedroom,1200,3.0,1.0,67.77,3.0,1200.0,6777000.0,5647.5
+8193,Super built-up  Area,Ready To Move,Whitefield,3 BHK,4097,3.0,2.0,400.0,3.0,4097.0,40000000.0,9763.24
+8200,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1870,3.0,2.0,90.0,3.0,1870.0,9000000.0,4812.83
+8205,Plot  Area,Ready To Move,Whitefield,3 Bedroom,3450,4.0,2.0,208.0,3.0,3450.0,20800000.0,6028.99
+8375,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1836,3.0,2.0,125.0,3.0,1836.0,12500000.0,6808.28
+8481,Super built-up  Area,19-Dec,Whitefield,3 BHK,3596,3.0,1.0,200.0,3.0,3596.0,20000000.0,5561.74
+8522,Built-up  Area,Ready To Move,Whitefield,3 BHK,1275,2.0,3.0,65.0,3.0,1275.0,6500000.0,5098.04
+8557,Super built-up  Area,20-Dec,Whitefield,3 BHK,1564,3.0,1.0,103.0,3.0,1564.0,10300000.0,6585.68
+8581,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1585,3.0,1.0,84.0,3.0,1585.0,8400000.0,5299.68
+8590,Plot  Area,18-Jul,Whitefield,3 Bedroom,1200,3.0,1.0,56.0,3.0,1200.0,5600000.0,4666.67
+8660,Built-up  Area,18-Dec,Whitefield,3 BHK,1558,3.0,2.0,90.0,3.0,1558.0,9000000.0,5776.64
+8676,Plot  Area,Ready To Move,Whitefield,3 Bedroom,1500,3.0,1.0,250.0,3.0,1500.0,25000000.0,16666.67
+8752,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1704,3.0,1.0,120.0,3.0,1704.0,12000000.0,7042.25
+8753,Super built-up  Area,18-Dec,Whitefield,3 BHK,1390 - 1600,2.0,2.0,60.55,3.0,1495.0,6055000.0,4050.17
+8784,Built-up  Area,Ready To Move,Whitefield,3 BHK,1770,4.0,1.0,68.0,3.0,1770.0,6800000.0,3841.81
+8798,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1570,3.0,3.0,88.0,3.0,1570.0,8800000.0,5605.1
+8901,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2025,4.0,2.0,115.0,3.0,2025.0,11500000.0,5679.01
+8973,Super built-up  Area,18-Dec,Whitefield,3 BHK,1346,2.0,1.0,100.0,3.0,1346.0,10000000.0,7429.42
+9118,Built-up  Area,Ready To Move,Whitefield,3 Bedroom,1600,3.0,0.0,69.1,3.0,1600.0,6910000.0,4318.75
+9165,Super built-up  Area,18-Mar,Whitefield,3 BHK,1496,2.0,1.0,718.0,3.0,1496.0,71800000.0,47994.65
+9184,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1720,3.0,3.0,98.97,3.0,1720.0,9897000.0,5754.07
+9196,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1600,3.0,2.0,95.0,3.0,1600.0,9500000.0,5937.5
+9235,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1655,3.0,1.0,108.0,3.0,1655.0,10800000.0,6525.68
+9241,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1740,3.0,2.0,95.0,3.0,1740.0,9500000.0,5459.77
+9254,Plot  Area,Ready To Move,Whitefield,3 Bedroom,1200,3.0,1.0,56.72,3.0,1200.0,5672000.0,4726.67
+9536,Plot  Area,18-Aug,Whitefield,3 Bedroom,1500,3.0,1.0,78.57,3.0,1500.0,7857000.0,5238.0
+9554,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1626,3.0,3.0,85.0,3.0,1626.0,8500000.0,5227.55
+9642,Built-up  Area,Ready To Move,Whitefield,3 BHK,1270,2.0,2.0,65.0,3.0,1270.0,6500000.0,5118.11
+9664,Built-up  Area,18-Jun,Whitefield,3 Bedroom,3117,3.0,2.0,261.0,3.0,3117.0,26100000.0,8373.44
+9769,Built-up  Area,18-Apr,Whitefield,3 Bedroom,3150,3.0,1.0,290.0,3.0,3150.0,29000000.0,9206.35
+9911,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1530,3.0,3.0,75.0,3.0,1530.0,7500000.0,4901.96
+9961,Super built-up  Area,Ready To Move,Whitefield,3 BHK,2247,3.0,2.0,145.0,3.0,2247.0,14500000.0,6453.05
+10109,Super built-up  Area,20-Sep,Whitefield,3 BHK,2140,3.0,2.0,139.0,3.0,2140.0,13900000.0,6495.33
+10150,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1530,3.0,3.0,73.0,3.0,1530.0,7300000.0,4771.24
+10304,Built-up  Area,Ready To Move,Whitefield,3 BHK,1495,2.0,2.0,70.0,3.0,1495.0,7000000.0,4682.27
+10484,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1431,3.0,2.0,85.0,3.0,1431.0,8500000.0,5939.9
+10556,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1760,3.0,2.0,160.0,3.0,1760.0,16000000.0,9090.91
+10574,Super built-up  Area,18-Jul,Whitefield,3 BHK,1655,3.0,2.0,110.0,3.0,1655.0,11000000.0,6646.53
+10623,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1725,3.0,2.0,106.0,3.0,1725.0,10600000.0,6144.93
+10672,Plot  Area,Ready To Move,Whitefield,3 Bedroom,4800,4.0,2.0,600.0,3.0,4800.0,60000000.0,12500.0
+10742,Super built-up  Area,18-Dec,Whitefield,3 BHK,1639,3.0,2.0,107.0,3.0,1639.0,10700000.0,6528.37
+10765,Built-up  Area,20-Dec,Whitefield,3 BHK,1820,3.0,2.0,113.0,3.0,1820.0,11300000.0,6208.79
+10796,Built-up  Area,Ready To Move,Whitefield,3 BHK,1990,3.0,3.0,98.0,3.0,1990.0,9800000.0,4924.62
+10998,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1345,3.0,1.0,58.0,3.0,1345.0,5800000.0,4312.27
+11182,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1820,3.0,2.0,140.0,3.0,1820.0,14000000.0,7692.31
+11250,Super built-up  Area,20-Dec,Whitefield,3 BHK,1235 - 1410,3.0,0.0,40.985,3.0,1322.5,4098500.0,3099.05
+11316,Super built-up  Area,18-Oct,Whitefield,3 BHK,2280,4.0,2.0,125.0,3.0,2280.0,12500000.0,5482.46
+11371,Super built-up  Area,19-Sep,Whitefield,3 BHK,1520 - 1759,3.0,0.0,92.63,3.0,1639.5,9263000.0,5649.89
+11397,Built-up  Area,Ready To Move,Whitefield,3 BHK,1634,3.0,2.0,68.0,3.0,1634.0,6800000.0,4161.57
+11599,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1436,2.0,3.0,62.15,3.0,1436.0,6215000.0,4327.99
+11603,Super built-up  Area,19-Jan,Whitefield,3 BHK,3758,3.0,1.0,300.0,3.0,3758.0,30000000.0,7982.97
+11684,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1452,2.0,2.0,46.29,3.0,1452.0,4629000.0,3188.02
+11761,Super built-up  Area,18-Apr,Whitefield,3 BHK,1496,2.0,1.0,71.81,3.0,1496.0,7181000.0,4800.13
+11955,Super built-up  Area,18-Apr,Whitefield,3 BHK,1396,3.0,1.0,74.0,3.0,1396.0,7400000.0,5300.86
+12084,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1451,2.0,2.0,46.4,3.0,1451.0,4640000.0,3197.79
+12244,Built-up  Area,Ready To Move,Whitefield,3 BHK,1615,3.0,0.0,96.9,3.0,1615.0,9690000.0,6000.0
+12300,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1400,2.0,3.0,56.0,3.0,1400.0,5600000.0,4000.0
+12470,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1430,3.0,2.0,52.0,3.0,1430.0,5200000.0,3636.36
+12510,Built-up  Area,Ready To Move,Whitefield,3 BHK,1010,2.0,1.0,45.0,3.0,1010.0,4500000.0,4455.45
+12562,Super built-up  Area,18-Dec,Whitefield,3 BHK,2321,4.0,1.0,157.0,3.0,2321.0,15700000.0,6764.33
+12641,Super built-up  Area,19-Mar,Whitefield,3 BHK,1655,3.0,2.0,113.0,3.0,1655.0,11300000.0,6827.79
+12680,Built-up  Area,Ready To Move,Whitefield,3 BHK,1740,3.0,3.0,85.0,3.0,1740.0,8500000.0,4885.06
+12721,Built-up  Area,18-Mar,Whitefield,3 BHK,1650,3.0,2.0,48.0,3.0,1650.0,4800000.0,2909.09
+12790,Plot  Area,18-Dec,Whitefield,3 Bedroom,1200,3.0,2.0,67.75,3.0,1200.0,6775000.0,5645.83
+12833,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1660,3.0,1.0,110.0,3.0,1660.0,11000000.0,6626.51
+12941,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1457,2.0,2.0,105.0,3.0,1457.0,10500000.0,7206.59
+12953,Super built-up  Area,18-Feb,Whitefield,3 BHK,1720,3.0,2.0,128.0,3.0,1720.0,12800000.0,7441.86
+12991,Plot  Area,18-Dec,Whitefield,3 Bedroom,1500,3.0,1.0,61.9,3.0,1500.0,6190000.0,4126.67
+13023,Super built-up  Area,19-Dec,Whitefield,3 BHK,1564,3.0,1.0,103.0,3.0,1564.0,10300000.0,6585.68
+13043,Plot  Area,18-Dec,Whitefield,3 Bedroom,1500,3.0,1.0,71.0,3.0,1500.0,7100000.0,4733.33
+13067,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1404,2.0,2.0,59.0,3.0,1404.0,5900000.0,4202.28
+13083,Super built-up  Area,18-Dec,Whitefield,3 BHK,1639,3.0,2.0,107.0,3.0,1639.0,10700000.0,6528.37
+13102,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1760,3.0,2.0,139.0,3.0,1760.0,13900000.0,7897.73
+13192,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1730,3.0,2.0,125.0,3.0,1730.0,12500000.0,7225.43
+13214,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1453,2.0,2.0,58.0,3.0,1453.0,5800000.0,3991.74
